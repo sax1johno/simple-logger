@@ -1,0 +1,29 @@
+{
+  "name": "simple-logger",
+  "description": "A simple logging utility that uses events to customize and extend logging responses.",
+  "tags": [
+    "logging",
+    "logs",
+    "ghiraldi"
+  ],
+  "version": "0.5.0",
+  "author": {
+    "name": "John O'Connor",
+    "email": "sax1johno@gmail.com"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "main": "./lib/simple_logger",
+  "dependencies": {
+    "underscore": "*",
+    "nodeunit": "*"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sax1johno/simple-logger.git"
+  },
+  "_id": "simple_logger@0.5.0",
+  "_from": "simple_logger@0.5.0"
+}
